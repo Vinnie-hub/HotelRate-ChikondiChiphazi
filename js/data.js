@@ -369,7 +369,7 @@ const STEPS = [
   ],
   [
     "Pay the activation fee",
-    "Pay a one-time $4 activation fee to activate your account and access the available hotel-review activities.",
+    "Pay a one-time $10 activation fee to activate your account and access the available hotel-review activities.",
   ],
   [
     "Start reviewing",
